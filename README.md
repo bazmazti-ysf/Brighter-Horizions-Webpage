@@ -1,2 +1,2 @@
 # Brighter-Horizions-Webpage
-we development code for Brighter Horizons Foundation
+web development code for Brighter Horizons Foundation
